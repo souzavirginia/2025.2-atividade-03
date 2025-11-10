@@ -6,13 +6,13 @@
 }
 
 card-body {
-
-    max-width:17em;
+    max-width: 80%;
     border: 2px solid black;
     border-radius: 1em;
     font-family: Arial, Helvetica, sans-serif;
     box-shadow: 0 4px;
     padding: 0 1em 1em;
+    margin: 4px;
 }
 
 button {
