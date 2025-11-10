@@ -5,16 +5,13 @@
     margin-top: 20px;
 }
 
-card {
+card-body {
+
     max-width:17em;
     border: 2px solid black;
     border-radius: 1em;
     font-family: Arial, Helvetica, sans-serif;
     box-shadow: 0 4px;
-
-}
-
-card-body { 
     padding: 0 1em 1em;
 }
 
@@ -27,6 +24,5 @@ button {
     letter-spacing: 1px;
     font-weight: bold;
     box-shadow: 0 2px;
-
 
 }
