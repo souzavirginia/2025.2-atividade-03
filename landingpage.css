@@ -208,7 +208,6 @@ header h1 {
 }
 
 .atuacao-card ul li {
-    content: '✓';
     padding: 10px 0;
     padding-left: 25px;
     position: relative;
