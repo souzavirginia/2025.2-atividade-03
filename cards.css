@@ -23,7 +23,6 @@ body {
     font-size: 2.5em;
 }
 
-/* Estilo do Card */
 .card {
     background-color: #fff;
     border-radius: 10px;
@@ -38,7 +37,7 @@ body {
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
 }
 
-/* Header do Card */
+
 .card-header {
     background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     color: white;
@@ -57,13 +56,13 @@ body {
     opacity: 0.9;
 }
 
-/* Conteúdo do Card */
+
 .card-content {
     padding: 25px;
 }
 
 .card-content h3 {
-    color: #667eea;
+    color: #8dc772;
     margin-top: 15px;
     margin-bottom: 10px;
     font-size: 1.3em;
@@ -83,13 +82,13 @@ body {
     background-color: #f0f0f0;
     padding: 8px 12px;
     margin-bottom: 8px;
-    border-left: 4px solid #667eea;
+    border-left: 4px solid #8dc772;
     border-radius: 4px;
 }
 
 .tecnologias li {
     display: inline-block;
-    background-color: #667eea;
+    background-color: #8dc772;
     color: white;
     padding: 6px 15px;
     margin: 5px;
@@ -98,7 +97,7 @@ body {
     font-size: 0.9em;
 }
 
-/* Rodapé do Card */
+
 .card-footer {
     background-color: #f9f9f9;
     padding: 20px;
@@ -117,10 +116,10 @@ body {
 }
 
 .card-footer strong {
-    color: #667eea;
+    color: #8dc772;
 }
 
-/* Responsividade */
+
 @media (max-width: 768px) {
     .container h1 {
         font-size: 2em;
