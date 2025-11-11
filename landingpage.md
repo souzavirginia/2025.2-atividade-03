@@ -541,42 +541,42 @@ footer p {
 ## ✅ Checklist da Atividade
 
 ### Preparação
-- [ ] Acessar o site oficial do curso: https://diatinf.ifrn.edu.br/cursos/tecnologia-em-analise-e-desenvolvimento-de-sistemas/
-- [ ] Ler todas as informações disponíveis no site
-- [ ] Anotar os dados necessários para cada seção
+- [x] Acessar o site oficial do curso: https://diatinf.ifrn.edu.br/cursos/tecnologia-em-analise-e-desenvolvimento-de-sistemas/
+- [x] Ler todas as informações disponíveis no site
+- [x] Anotar os dados necessários para cada seção
 
 ### Estrutura HTML
-- [ ] Criar arquivo `landingpage.html` com estrutura HTML5 válida
-- [ ] Definir `<meta charset="UTF-8">` e viewport para responsividade
-- [ ] Criar título descritivo na tag `<title>`
-- [ ] Adicionar link para arquivo CSS externo
+- [x] Criar arquivo `landingpage.html` com estrutura HTML5 válida
+- [x] Definir `<meta charset="UTF-8">` e viewport para responsividade
+- [x] Criar título descritivo na tag `<title>`
+- [x] Adicionar link para arquivo CSS externo
 
 ### Navegação
 - [ ] Implementar menu de navegação com links para as seções
 - [ ] Garantir que os links de navegação funcionem corretamente (navegação âncora)
 
 ### Seção 1: Informações Gerais
-- [ ] Adicionar nome completo do curso
-- [ ] Incluir nome do coordenador (consultar site oficial)
-- [ ] Adicionar informações sobre a instituição
+- [x] Adicionar nome completo do curso
+- [x] Incluir nome do coordenador (consultar site oficial)
+- [x] Adicionar informações sobre a instituição
 
 ### Seção 2: Perfil do Curso
-- [ ] Apresentar o curso com base nas informações oficiais
-- [ ] Listar os objetivos do curso
-- [ ] Destacar diferenciais e características especiais
+- [x] Apresentar o curso com base nas informações oficiais
+- [x] Listar os objetivos do curso
+- [x] Destacar diferenciais e características especiais
 
 ### Seção 3: Perfil de Atuação
-- [ ] Listar áreas de atuação do profissional
-- [ ] Descrever competências desenvolvidas no curso
-- [ ] Incluir informações sobre mercado de trabalho
+- [x] Listar áreas de atuação do profissional
+- [x] Descrever competências desenvolvidas no curso
+- [x] Incluir informações sobre mercado de trabalho
 
 ### Seção 4: Ficha Técnica
-- [ ] Criar tabela com informações técnicas do curso
-- [ ] Incluir duração do curso
-- [ ] Adicionar carga horária total
-- [ ] Especificar turno de oferta
-- [ ] Informar modalidade de ensino
-- [ ] Indicar tipo de certificação
+- [x] Criar tabela com informações técnicas do curso
+- [x] Incluir duração do curso
+- [x] Adicionar carga horária total
+- [x] Especificar turno de oferta
+- [x] Informar modalidade de ensino
+- [x] Indicar tipo de certificação
 
 ### Estilização CSS
 - [ ] Criar arquivo `landingpage.css`
