@@ -39,7 +39,7 @@ body {
 
 
 .card-header {
-    background: linear-gradient(135deg, #667eea 0%, #8dc772 50%, #764ba2 100%);
+    background: linear-gradient(135deg, #befc77 0%, #8dc772 50%, #befc77 100%);
     color: white;
     padding: 20px;
     text-align: center;
@@ -89,7 +89,7 @@ body {
 .tecnologias li {
     display: inline-block;
     background-color: #8dc772;
-    color: white;
+    color: #333;
     padding: 6px 15px;
     margin: 5px;
     border-radius: 20px;
