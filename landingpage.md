@@ -552,8 +552,8 @@ footer p {
 - [x] Adicionar link para arquivo CSS externo
 
 ### Navegação
-- [ ] Implementar menu de navegação com links para as seções
-- [ ] Garantir que os links de navegação funcionem corretamente (navegação âncora)
+- [x] Implementar menu de navegação com links para as seções
+- [x] Garantir que os links de navegação funcionem corretamente (navegação âncora)
 
 ### Seção 1: Informações Gerais
 - [x] Adicionar nome completo do curso
