@@ -37,7 +37,6 @@ body {
     box-shadow: 0 8px 12px rgba(0, 0, 0, 0.15);
 }
 
-
 .card-header {
     background: linear-gradient(135deg, #befc77 0%, #8dc772 50%, #befc77 100%);
     color: white;
@@ -55,7 +54,6 @@ body {
     font-style: italic;
     opacity: 0.9;
 }
-
 
 .card-content {
     padding: 25px;
@@ -97,7 +95,6 @@ body {
     font-size: 0.9em;
 }
 
-
 .card-footer {
     background-color: #f9f9f9;
     padding: 20px;
@@ -119,16 +116,15 @@ body {
     color: #8dc772;
 }
 
-
 @media (max-width: 768px) {
     .container h1 {
         font-size: 2em;
     }
-    
+
     .card-header h2 {
         font-size: 1.5em;
     }
-    
+
     .tecnologias li {
         display: block;
         margin: 5px 0;
