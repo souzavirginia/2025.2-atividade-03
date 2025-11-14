@@ -577,7 +577,7 @@ body {
 - [x] Adicionar ícone de busca à esquerda
 - [x] Inserir logo/título "Gemini"
 - [x] Criar botão "Faça upgrade para o Google AI Plus" com ícone
-- [ ] Adicionar foto de perfil do usuário
+- [x] Adicionar foto de perfil do usuário
 
 ### Estrutura HTML - Área Principal
 - [x] Criar mensagem de boas-vindas "Olá, Leonardo"
