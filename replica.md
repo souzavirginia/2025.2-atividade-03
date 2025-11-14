@@ -559,86 +559,86 @@ body {
 ## ✅ Checklist da Atividade
 
 ### Preparação
-- [ ] Visualizar a imagem `gemini.png` para entender o layout
-- [ ] Criar arquivo `replica.html`
-- [ ] Criar arquivo `replica.css`
-- [ ] Copiar o código inicial fornecido acima
+- [x] Visualizar a imagem `gemini.png` para entender o layout
+- [x] Criar arquivo `replica.html`
+- [x] Criar arquivo `replica.css`
+- [x] Copiar o código inicial fornecido acima
 
 ### Estrutura HTML - Sidebar
-- [ ] Implementar o menu hambúrguer no topo da sidebar
-- [ ] Adicionar botão "Nova conversa" com ícone de edição
-- [ ] Adicionar botão de expandir ao lado de "Nova conversa"
-- [ ] Criar seção "Veja alguns Gems" com ícone de diamante
-- [ ] Implementar seção "Recentes" com título
-- [ ] Adicionar lista de 8 conversas recentes
-- [ ] Criar link "Configurações e ajuda" no rodapé com ícone de engrenagem
+- [x] Implementar o menu hambúrguer no topo da sidebar
+- [x] Adicionar botão "Nova conversa" com ícone de edição
+- [x] Adicionar botão de expandir ao lado de "Nova conversa"
+- [x] Criar seção "Veja alguns Gems" com ícone de diamante
+- [x] Implementar seção "Recentes" com título
+- [x] Adicionar lista de 8 conversas recentes
+- [x] Criar link "Configurações e ajuda" no rodapé com ícone de engrenagem
 
 ### Estrutura HTML - Barra Superior
-- [ ] Adicionar ícone de busca à esquerda
-- [ ] Inserir logo/título "Gemini"
-- [ ] Criar botão "Faça upgrade para o Google AI Plus" com ícone
+- [x] Adicionar ícone de busca à esquerda
+- [x] Inserir logo/título "Gemini"
+- [x] Criar botão "Faça upgrade para o Google AI Plus" com ícone
 - [ ] Adicionar foto de perfil do usuário
 
 ### Estrutura HTML - Área Principal
-- [ ] Criar mensagem de boas-vindas "Olá, Leonardo"
-- [ ] Implementar campo de entrada "Peça ao Gemini"
-- [ ] Adicionar botão "+" (adicionar)
-- [ ] Adicionar botão "Ferramentas" com ícone
-- [ ] Criar seletor de versão "2.5 Pro" com dropdown
-- [ ] Adicionar ícone de microfone
+- [x] Criar mensagem de boas-vindas "Olá, Leonardo"
+- [x] Implementar campo de entrada "Peça ao Gemini"
+- [x] Adicionar botão "+" (adicionar)
+- [x] Adicionar botão "Ferramentas" com ícone
+- [x] Criar seletor de versão "2.5 Pro" com dropdown
+- [x] Adicionar ícone de microfone
 
 ### Estilização CSS - Layout Geral
-- [ ] Configurar display flex para body (sidebar + conteúdo)
-- [ ] Definir largura fixa para sidebar (280px)
-- [ ] Configurar área principal para ocupar espaço restante
-- [ ] Aplicar overflow adequado em cada seção
+- [x] Configurar display flex para body (sidebar + conteúdo)
+- [x] Definir largura fixa para sidebar (280px)
+- [x] Configurar área principal para ocupar espaço restante
+- [x] Aplicar overflow adequado em cada seção
 
 ### Estilização CSS - Cores e Tipografia
-- [ ] Definir variáveis CSS para cores principais
-- [ ] Aplicar cor de fundo cinza claro na sidebar (#f8f9fa)
-- [ ] Configurar cor de texto primária (#202124)
-- [ ] Aplicar cor azul do Google (#1a73e8) na mensagem de boas-vindas
-- [ ] Usar fonte 'Google Sans' ou 'Roboto' como fallback
+- [x] Definir variáveis CSS para cores principais
+- [x] Aplicar cor de fundo cinza claro na sidebar (#f8f9fa)
+- [x] Configurar cor de texto primária (#202124)
+- [x] Aplicar cor azul do Google (#1a73e8) na mensagem de boas-vindas
+- [x] Usar fonte 'Google Sans' ou 'Roboto' como fallback
 
 ### Estilização CSS - Sidebar
-- [ ] Estilizar botão "Nova conversa" com borda arredondada
-- [ ] Aplicar hover effects nos botões da sidebar
-- [ ] Estilizar lista de conversas recentes
-- [ ] Adicionar efeito de truncamento de texto (ellipsis) nos itens longos
-- [ ] Posicionar "Configurações e ajuda" no final da sidebar
+- [x] Estilizar botão "Nova conversa" com borda arredondada
+- [x] Aplicar hover effects nos botões da sidebar
+- [x] Estilizar lista de conversas recentes
+- [x] Adicionar efeito de truncamento de texto (ellipsis) nos itens longos
+- [x] Posicionar "Configurações e ajuda" no final da sidebar
 
 ### Estilização CSS - Barra Superior
-- [ ] Alinhar elementos da barra superior (esquerda e direita)
-- [ ] Estilizar botão de upgrade com borda e hover effect
-- [ ] Fazer foto de perfil circular (border-radius: 50%)
-- [ ] Adicionar border-bottom na barra superior
+- [x] Alinhar elementos da barra superior (esquerda e direita)
+- [x] Estilizar botão de upgrade com borda e hover effect
+- [x] Fazer foto de perfil circular (border-radius: 50%)
+- [x] Adicionar border-bottom na barra superior
 
 ### Estilização CSS - Área Principal
-- [ ] Centralizar verticalmente e horizontalmente o conteúdo
-- [ ] Aplicar tamanho grande (48px) na mensagem de boas-vindas
-- [ ] Estilizar campo de entrada com fundo cinza claro arredondado
-- [ ] Adicionar sombra sutil no campo de entrada
-- [ ] Alinhar botões de ação dentro do campo de entrada
+- [x] Centralizar verticalmente e horizontalmente o conteúdo
+- [x] Aplicar tamanho grande (48px) na mensagem de boas-vindas
+- [x] Estilizar campo de entrada com fundo cinza claro arredondado
+- [x] Adicionar sombra sutil no campo de entrada
+- [x] Alinhar botões de ação dentro do campo de entrada
 
 ### Funcionalidade e Interatividade
-- [ ] Adicionar estados de hover em todos os botões
-- [ ] Implementar transições suaves (0.2s) nos elementos interativos
-- [ ] Garantir que o campo de entrada seja focável
-- [ ] Testar acessibilidade com atributos aria-label
+- [x] Adicionar estados de hover em todos os botões
+- [x] Implementar transições suaves (0.2s) nos elementos interativos
+- [x] Garantir que o campo de entrada seja focável
+- [x] Testar acessibilidade com atributos aria-label
 
 ### Refinamentos e Detalhes
-- [ ] Ajustar espaçamentos (padding e margin) para corresponder ao design
-- [ ] Verificar alinhamento de todos os ícones
-- [ ] Garantir consistência de bordas arredondadas
-- [ ] Adicionar sombras sutis onde apropriado
-- [ ] Validar cores com a imagem original
+- [x] Ajustar espaçamentos (padding e margin) para corresponder ao design
+- [x] Verificar alinhamento de todos os ícones
+- [x] Garantir consistência de bordas arredondadas
+- [x] Adicionar sombras sutis onde apropriado
+- [x] Validar cores com a imagem original
 
 ### Qualidade do Código
-- [ ] Código HTML bem indentado e organizado
-- [ ] Código CSS bem estruturado e comentado
-- [ ] Uso adequado de classes semânticas
-- [ ] Variáveis CSS definidas e utilizadas consistentemente
-- [ ] Remover código não utilizado
+- [x] Código HTML bem indentado e organizado
+- [x] Código CSS bem estruturado e comentado
+- [x] Uso adequado de classes semânticas
+- [x] Variáveis CSS definidas e utilizadas consistentemente
+- [x] Remover código não utilizado
 
 
 ---

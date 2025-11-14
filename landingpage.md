@@ -579,32 +579,32 @@ footer p {
 - [x] Indicar tipo de certificação
 
 ### Estilização CSS
-- [ ] Criar arquivo `landingpage.css`
-- [ ] Aplicar reset CSS básico
-- [ ] Estilizar header e navegação
-- [ ] Criar hero section atrativa
-- [ ] Estilizar todas as seções com cores e espaçamentos adequados
-- [ ] Estilizar a tabela da ficha técnica
-- [ ] Criar footer com links úteis
+- [x] Criar arquivo `landingpage.css`
+- [x] Aplicar reset CSS básico
+- [x] Estilizar header e navegação
+- [x] Criar hero section atrativa
+- [x] Estilizar todas as seções com cores e espaçamentos adequados
+- [x] Estilizar a tabela da ficha técnica
+- [x] Criar footer com links úteis
 
 ### Responsividade
-- [ ] Implementar media queries para dispositivos móveis
-- [ ] Testar layout em diferentes tamanhos de tela
-- [ ] Garantir que o menu seja utilizável em mobile
-- [ ] Verificar legibilidade em telas pequenas
+- [x] Implementar media queries para dispositivos móveis
+- [x] Testar layout em diferentes tamanhos de tela
+- [x] Garantir que o menu seja utilizável em mobile
+- [x] Verificar legibilidade em telas pequenas
 
 ### Qualidade e Validação
-- [ ] Validar HTML no [W3C Validator](https://validator.w3.org/)
-- [ ] Validar CSS no [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
-- [ ] Verificar se todas as informações estão corretas e atualizadas
-- [ ] Revisar ortografia e gramática
-- [ ] Testar todos os links
+- [x] Validar HTML no [W3C Validator](https://validator.w3.org/)
+- [x] Validar CSS no [W3C CSS Validator](https://jigsaw.w3.org/css-validator/)
+- [x] Verificar se todas as informações estão corretas e atualizadas
+- [x] Revisar ortografia e gramática
+- [x] Testar todos os links
 
 ### Entrega
-- [ ] Código bem indentado e organizado
-- [ ] Comentários explicativos quando necessário
-- [ ] Commit no GitHub com mensagem descritiva
-- [ ] Verificar se a página está funcionando corretamente
+- [x] Código bem indentado e organizado
+- [x] Comentários explicativos quando necessário
+- [x] Commit no GitHub com mensagem descritiva
+- [x] Verificar se a página está funcionando corretamente
 
 ---
 

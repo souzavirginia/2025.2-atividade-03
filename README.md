@@ -11,7 +11,7 @@
   - [x] criar link para o arquivo replica.html (atividade 6)
 
 ## Atividades
-- [ ] [Atividade 03 - Tabelas](tabelas.md)
-- [ ] [Atividade 04 - Cards](cards.md)
-- [ ] [Atividade 05 - landing page](landingpage.md)
-- [ ] [Atividade 06 - replica do gemini](replica.md)
+- [x] [Atividade 03 - Tabelas](tabelas.md)
+- [x] [Atividade 04 - Cards](cards.md)
+- [x] [Atividade 05 - landing page](landingpage.md)
+- [x] [Atividade 06 - replica do gemini](replica.md)
